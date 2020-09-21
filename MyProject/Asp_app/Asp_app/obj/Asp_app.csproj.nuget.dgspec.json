@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nati\\Desktop\\MyProject\\Asp_app\\Asp_app\\Asp_app.csproj": {}
+    "C:\\Users\\Nati\\Documents\\GitHub\\MyProject\\MyProject\\Asp_app\\Asp_app\\Asp_app.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nati\\Desktop\\MyProject\\Asp_app\\Asp_app\\Asp_app.csproj": {
+    "C:\\Users\\Nati\\Documents\\GitHub\\MyProject\\MyProject\\Asp_app\\Asp_app\\Asp_app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nati\\Desktop\\MyProject\\Asp_app\\Asp_app\\Asp_app.csproj",
+        "projectUniqueName": "C:\\Users\\Nati\\Documents\\GitHub\\MyProject\\MyProject\\Asp_app\\Asp_app\\Asp_app.csproj",
         "projectName": "Asp_app",
-        "projectPath": "C:\\Users\\Nati\\Desktop\\MyProject\\Asp_app\\Asp_app\\Asp_app.csproj",
+        "projectPath": "C:\\Users\\Nati\\Documents\\GitHub\\MyProject\\MyProject\\Asp_app\\Asp_app\\Asp_app.csproj",
         "packagesPath": "C:\\Users\\Nati\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nati\\Desktop\\MyProject\\Asp_app\\Asp_app\\obj\\",
+        "outputPath": "C:\\Users\\Nati\\Documents\\GitHub\\MyProject\\MyProject\\Asp_app\\Asp_app\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,11 +30,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Nati\\Desktop\\MyProject\\Send_email\\Email\\Email.csproj": {
-                "projectPath": "C:\\Users\\Nati\\Desktop\\MyProject\\Send_email\\Email\\Email.csproj"
+              "C:\\Users\\Nati\\Documents\\GitHub\\MyProject\\MyProject\\Send_email\\Email\\Email.csproj": {
+                "projectPath": "C:\\Users\\Nati\\Documents\\GitHub\\MyProject\\MyProject\\Send_email\\Email\\Email.csproj"
               },
-              "C:\\Users\\Nati\\Desktop\\MyProject\\Send_email\\UserInfo\\UserInfo.csproj": {
-                "projectPath": "C:\\Users\\Nati\\Desktop\\MyProject\\Send_email\\UserInfo\\UserInfo.csproj"
+              "C:\\Users\\Nati\\Documents\\GitHub\\MyProject\\MyProject\\Send_email\\UserInfo\\UserInfo.csproj": {
+                "projectPath": "C:\\Users\\Nati\\Documents\\GitHub\\MyProject\\MyProject\\Send_email\\UserInfo\\UserInfo.csproj"
               }
             }
           }
@@ -75,14 +75,14 @@
         }
       }
     },
-    "C:\\Users\\Nati\\Desktop\\MyProject\\Send_email\\Email\\Email.csproj": {
+    "C:\\Users\\Nati\\Documents\\GitHub\\MyProject\\MyProject\\Send_email\\Email\\Email.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nati\\Desktop\\MyProject\\Send_email\\Email\\Email.csproj",
+        "projectUniqueName": "C:\\Users\\Nati\\Documents\\GitHub\\MyProject\\MyProject\\Send_email\\Email\\Email.csproj",
         "projectName": "Email",
-        "projectPath": "C:\\Users\\Nati\\Desktop\\MyProject\\Send_email\\Email\\Email.csproj",
+        "projectPath": "C:\\Users\\Nati\\Documents\\GitHub\\MyProject\\MyProject\\Send_email\\Email\\Email.csproj",
         "packagesPath": "C:\\Users\\Nati\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nati\\Desktop\\MyProject\\Send_email\\Email\\obj\\",
+        "outputPath": "C:\\Users\\Nati\\Documents\\GitHub\\MyProject\\MyProject\\Send_email\\Email\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -133,11 +133,11 @@
         }
       }
     },
-    "C:\\Users\\Nati\\Desktop\\MyProject\\Send_email\\UserInfo\\UserInfo.csproj": {
+    "C:\\Users\\Nati\\Documents\\GitHub\\MyProject\\MyProject\\Send_email\\UserInfo\\UserInfo.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nati\\Desktop\\MyProject\\Send_email\\UserInfo\\UserInfo.csproj",
+        "projectUniqueName": "C:\\Users\\Nati\\Documents\\GitHub\\MyProject\\MyProject\\Send_email\\UserInfo\\UserInfo.csproj",
         "projectName": "UserInfo",
-        "projectPath": "C:\\Users\\Nati\\Desktop\\MyProject\\Send_email\\UserInfo\\UserInfo.csproj"
+        "projectPath": "C:\\Users\\Nati\\Documents\\GitHub\\MyProject\\MyProject\\Send_email\\UserInfo\\UserInfo.csproj"
       },
       "frameworks": {
         "net472": {}

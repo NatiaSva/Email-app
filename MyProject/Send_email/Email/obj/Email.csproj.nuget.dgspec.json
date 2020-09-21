@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nati\\Desktop\\MyProject\\Send_email\\Email\\Email.csproj": {}
+    "C:\\Users\\Nati\\Documents\\GitHub\\MyProject\\MyProject\\Send_email\\Email\\Email.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nati\\Desktop\\MyProject\\Send_email\\Email\\Email.csproj": {
+    "C:\\Users\\Nati\\Documents\\GitHub\\MyProject\\MyProject\\Send_email\\Email\\Email.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nati\\Desktop\\MyProject\\Send_email\\Email\\Email.csproj",
+        "projectUniqueName": "C:\\Users\\Nati\\Documents\\GitHub\\MyProject\\MyProject\\Send_email\\Email\\Email.csproj",
         "projectName": "Email",
-        "projectPath": "C:\\Users\\Nati\\Desktop\\MyProject\\Send_email\\Email\\Email.csproj",
+        "projectPath": "C:\\Users\\Nati\\Documents\\GitHub\\MyProject\\MyProject\\Send_email\\Email\\Email.csproj",
         "packagesPath": "C:\\Users\\Nati\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nati\\Desktop\\MyProject\\Send_email\\Email\\obj\\",
+        "outputPath": "C:\\Users\\Nati\\Documents\\GitHub\\MyProject\\MyProject\\Send_email\\Email\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
