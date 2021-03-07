@@ -10,3 +10,9 @@ C:\Users\Nati\source\repos\Send_email\UserInfo\obj\Debug\UserInfo.csprojAssembly
 C:\Users\Nati\source\repos\Send_email\UserInfo\obj\Debug\UserInfo.csproj.CoreCompileInputs.cache
 C:\Users\Nati\source\repos\Send_email\UserInfo\obj\Debug\UserInfo.dll
 C:\Users\Nati\source\repos\Send_email\UserInfo\obj\Debug\UserInfo.pdb
+C:\Users\Nati\Documents\GitHub\MyProject\MyProject\Send_email\UserInfo\bin\Debug\UserInfo.dll
+C:\Users\Nati\Documents\GitHub\MyProject\MyProject\Send_email\UserInfo\bin\Debug\UserInfo.pdb
+C:\Users\Nati\Documents\GitHub\MyProject\MyProject\Send_email\UserInfo\obj\Debug\UserInfo.csprojAssemblyReference.cache
+C:\Users\Nati\Documents\GitHub\MyProject\MyProject\Send_email\UserInfo\obj\Debug\UserInfo.csproj.CoreCompileInputs.cache
+C:\Users\Nati\Documents\GitHub\MyProject\MyProject\Send_email\UserInfo\obj\Debug\UserInfo.dll
+C:\Users\Nati\Documents\GitHub\MyProject\MyProject\Send_email\UserInfo\obj\Debug\UserInfo.pdb

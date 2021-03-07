@@ -21,7 +21,7 @@ namespace Send_email
         public Form1()
         {
             InitializeComponent();
-            ResetUserInfo();
+            ResetUserInfo(); 
 
         }
 

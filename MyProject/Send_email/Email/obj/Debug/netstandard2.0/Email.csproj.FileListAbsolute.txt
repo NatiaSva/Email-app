@@ -7,3 +7,12 @@ C:\Users\Nati\source\repos\Send_email\Email\obj\Debug\netstandard2.0\Email.Assem
 C:\Users\Nati\source\repos\Send_email\Email\obj\Debug\netstandard2.0\Email.csproj.CoreCompileInputs.cache
 C:\Users\Nati\source\repos\Send_email\Email\obj\Debug\netstandard2.0\Email.dll
 C:\Users\Nati\source\repos\Send_email\Email\obj\Debug\netstandard2.0\Email.pdb
+C:\Users\Nati\Documents\GitHub\MyProject\MyProject\Send_email\Email\bin\Debug\netstandard2.0\Email.deps.json
+C:\Users\Nati\Documents\GitHub\MyProject\MyProject\Send_email\Email\bin\Debug\netstandard2.0\Email.dll
+C:\Users\Nati\Documents\GitHub\MyProject\MyProject\Send_email\Email\bin\Debug\netstandard2.0\Email.pdb
+C:\Users\Nati\Documents\GitHub\MyProject\MyProject\Send_email\Email\obj\Debug\netstandard2.0\Email.csprojAssemblyReference.cache
+C:\Users\Nati\Documents\GitHub\MyProject\MyProject\Send_email\Email\obj\Debug\netstandard2.0\Email.AssemblyInfoInputs.cache
+C:\Users\Nati\Documents\GitHub\MyProject\MyProject\Send_email\Email\obj\Debug\netstandard2.0\Email.AssemblyInfo.cs
+C:\Users\Nati\Documents\GitHub\MyProject\MyProject\Send_email\Email\obj\Debug\netstandard2.0\Email.csproj.CoreCompileInputs.cache
+C:\Users\Nati\Documents\GitHub\MyProject\MyProject\Send_email\Email\obj\Debug\netstandard2.0\Email.dll
+C:\Users\Nati\Documents\GitHub\MyProject\MyProject\Send_email\Email\obj\Debug\netstandard2.0\Email.pdb
